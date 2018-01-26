@@ -1,7 +1,3 @@
-<!--
-@masaquid
-debug url: https://poo-it-masaquid.c9users.io
--->
 # じゃんけんゲーム @masaquid
 
 ## 概要
